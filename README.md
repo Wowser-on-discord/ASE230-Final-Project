@@ -4,14 +4,14 @@ Noah Conley, Nick Vennemann, Michael Clark, Jacob Doerr
 
 https://www.youtube.com/watch?v=siGFJz8LVzk
 
-regular user access: 
+Regular User Access: 
 
-user: nick 
+User: nick 
 
-pass: pass1
+Password: pass1
 
-admin user access: 
+Admin User Access: 
 
-user: admin 
+User: admin 
 
-pass: pass1
+Password: pass1
